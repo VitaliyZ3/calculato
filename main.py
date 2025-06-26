@@ -4,3 +4,4 @@ number = input("Write number for calculator")
 # added User Interface
 # added User Interface for MacOS
 # added User Interface for Windows
+# added User Interface for Ubuntu
